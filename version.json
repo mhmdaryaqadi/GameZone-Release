@@ -1,5 +1,5 @@
 {
   "version": "1.0.0",
-  "changelog": "- Rilis perdana F*ck Steam - Elite Client Portal.\n- Implementasi UI Tema Silver Comic Retro.\n- Optimasi rendering mulus pakai Native Canvas & Threading.\n- Fitur Live Search Game terintegrasi (A-Z).\n- Pembersihan Memory Leak otomatis otomatis via Garbage Collector.\n- Dukungan Multi-Branch API via Lightning Repo.",
+  "changelog": "- Rilis perdana F*ck Steam - Elite Client Portal.\n- Implementasi UI Tema Silver Comic Retro.\n- Optimasi rendering mulus pakai Native Canvas & Threading.\n- Fitur Live Search Game terintegrasi (A-Z).\n- Pembersihan Memory Leak otomatis otomatis via Garbage Collector.\n- Dukungan Multi-Branch API.",
   "download_url": "https://github.com/mhmdaryaqadi/FSteam-Release/releases"
 }
