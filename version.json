@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
-  "changelog": "Pembaruan v1.0.1 membawa perombakan besar pada desain pop-up Live Download menjadi jauh lebih interaktif ala Silver Comic, menyempurnakan responsivitas daftar pencarian pintar (UX), serta menambahkan jalur alternatif baru untuk menginjeksi game secara manual menggunakan AppID maupun file .zip/.lua/.manifest lokal Anda!.",
-  "download_url": "https://github.com/mhmdaryaqadi/FSteam-Release/releases"
+  "version": "1.0.2",
+  "changelog": "Perbaikan sistem dan Rebranding nama ke GameZone. Penyesuaian instalasi ke Program Files dan sistem auto-update latar belakang dengan perombakan pop-up UI & Smart Search interaktif.",
+  "download_url": "https://github.com/mhmdaryaqadi/GameZone-Release/releases/download/v1.0.2/GameZoneSetup.exe"
 }
