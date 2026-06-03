@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
-  "changelog": "Perbaikan sistem dan Rebranding nama ke GameZone. Penyesuaian instalasi ke Program Files dan sistem auto-update latar belakang dengan perombakan pop-up UI & Smart Search interaktif.",
-  "download_url": "https://github.com/mhmdaryaqadi/GameZone-Release/releases/download/v1.0.2/GameZoneSetup.exe"
+    "version": "1.0.3",
+    "download_url": "https://github.com/mhmdaryaqadi/GameZone-Release/releases/download/v1.0.3/GameZoneSetup_v1.0.3.exe",
+    "changelog": "- ✨ Fitur Baru: Menambahkan menu khusus 'Fix No Internet' dengan panduan lengkap.\n- ✨ Peningkatan UX: Menggabungkan pencarian Nama Game & AppID menjadi satu kolom cerdas.\n- ✨ Transisi ke Installer: Aplikasi kini di-build sebagai Full Installer yang 100% lebih ringan.\n- 🔧 Perbaikan Bug: Memperbaiki masalah kritis koneksi (SSL) mati diam-diam.\n- 🛡️ Perbaikan Izin: Menyelesaikan error loading macet karena hak akses folder Windows.\n- 🎨 Pembaruan UI: Perbaikan posisi tombol dan elemen tampilan yang lebih rapi.\n- 🌐 Perbaikan Bahasa: Mendukung penuh terjemahan Inggris/Indonesia secara dinamis."
 }
