@@ -1,5 +1,5 @@
 {
-    "version": "1.0.5",
-    "download_url": "https://github.com/mhmdaryaqadi/GameZone-Release/releases/download/v1.0.5/GameZoneSetup_v1.0.5.exe",
-    "changelog": "- 🎮 Username Steam (Auto-Detect): Mengenali username lokal di panel kiri bawah.\n- 🎨 UI Posisi Tombol: Restart Steam & SteamDB sekarang sejajar rapi di sudut kolom pencarian.\n- 🧹 Cleanup: Penghapusan sisa artefak tema gelap."
+    "version": "1.0.6",
+    "download_url": "https://github.com/mhmdaryaqadi/GameZone-Release/releases/download/v1.0.6/GameZoneSetup_v1.0.6.exe",
+    "changelog": "- 🛡️ Update Senyap (Auto-Restart).\n- 🎮 Steam Graceful Restart (Anti kehilangan game).\n- 🌐 NetFix Multi-Drive (Bebas taruh game di disk manapun).\n- 🥷 Animasi Jendela Hitam CMD dihilangkan."
 }
