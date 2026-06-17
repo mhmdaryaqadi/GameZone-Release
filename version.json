@@ -1,5 +1,5 @@
 {
-  "version": "2.0.0",
-  "download_url": "https://github.com/mhmdaryaqadi/GameZone-Release/releases/download/v2.0.0/GameZoneSetup_v2.0.0.exe",
-  "changelog": "✨ [v2.0.0] (Terbaru):\n- 🎨 Perombakan UI Lengkap: Pemolesan seluruh tampilan ke estetika Neo Brutalism 60 FPS.\n- 🚀 Transisi Instan: Navigasi perpindahan antar halaman kini instan dan bebas lag (0ms delay).\n- 🐛 Fix Bug Layout: Perbaikan border bleed dan button layout shift pada sidebar menu.\n- 🛡️ Pembaruan Wajib: Notifikasi update kini muncul instan dan bersifat wajib."
+    "version": "2.0.0",
+    "download_url": "https://github.com/mhmdaryaqadi/GameZone-Release/releases/download/v1.0.7/GameZoneSetup_v2.0.0.exe",
+    "changelog": "✨ [v2.0.0] (Terbaru):\n- 🎨 Perombakan UI Lengkap: Pemolesan seluruh tampilan ke estetika Neo Brutalism 60 FPS.\n- 🚀 Transisi Instan: Navigasi perpindahan antar halaman kini instan dan bebas lag (0ms delay).\n- 🐛 Fix Bug Layout: Perbaikan border bleed dan button layout shift pada sidebar menu.\n- 🛡️ Pembaruan Wajib: Notifikasi update kini muncul instan dan bersifat wajib."
 }
