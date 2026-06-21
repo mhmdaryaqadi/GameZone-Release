@@ -1,5 +1,5 @@
 {
-    "version": "2.0.0",
-    "download_url": "https://github.com/mhmdaryaqadi/GameZone-Release/releases/download/v2.0.0/GameZoneSetup_v2.0.0.exe",
-    "changelog": "✨ [v2.0.0] (Terbaru):\n- 🎨 Perombakan UI Lengkap: Pemolesan seluruh tampilan ke estetika Neo Brutalism 60 FPS.\n- 🚀 Transisi Instan: Navigasi perpindahan antar halaman kini instan dan bebas lag (0ms delay).\n- 🐛 Fix Bug Layout: Perbaikan border bleed dan button layout shift pada sidebar menu.\n- 🛡️ Pembaruan Wajib: Notifikasi update kini muncul instan dan bersifat wajib."
+    "version": "2.0.1",
+    "download_url": "https://github.com/mhmdaryaqadi/GameZone-Release/releases/download/v2.0.1/GameZoneSetup_v2.0.1.exe",
+    "changelog": "✨ [v2.0.1] (Terbaru):\n- 💬 Reaksi Emoji Chat: Tambah reaksi 👍🔥❤️😂 di setiap pesan Community Chat.\n- 🟢 Halaman Status User: Lihat siapa saja yang sedang online/offline secara real-time.\n- 🤖 AI Chatbot Bantuan: Chatbot cerdas di halaman Bantuan dengan knowledge base GameZone.\n- 🔔 Notifikasi Badge: Indikator bulatan merah di tombol navigasi saat ada pesan/report baru.\n- ⚡ Optimasi Latensi: Polling real-time lebih cepat dengan connection pooling (requests.Session).\n- 🛡️ Keamanan Anti-Bot: Debounce search, staggered requests, dan cache .failed untuk proteksi rate-limit.\n- 🎨 Perbaikan Sidebar: Layout sidebar lebih rapi dengan foto profil bulat dan tombol status baru."
 }
