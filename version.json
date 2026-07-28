@@ -1,5 +1,5 @@
 {
-    "version": "2.0.1",
-    "download_url": "https://github.com/mhmdaryaqadi/GameZone-Release/releases/download/v2.0.1/GameZoneSetup_v2.0.1.exe",
-    "changelog": "✨ [v2.0.1] (Terbaru):\n- 💬 Reaksi Emoji Chat: Tambah reaksi 👍🔥❤️😂 di setiap pesan Community Chat.\n- 🟢 Halaman Status User: Lihat siapa saja yang sedang online/offline secara real-time.\n- 🤖 AI Chatbot Bantuan: Chatbot cerdas di halaman Bantuan dengan knowledge base GameZone.\n- 🔔 Notifikasi Badge: Indikator bulatan merah di tombol navigasi saat ada pesan/report baru.\n- ⚡ Optimasi Latensi: Polling real-time lebih cepat dengan connection pooling (requests.Session).\n- 🛡️ Keamanan Anti-Bot: Debounce search, staggered requests, dan cache .failed untuk proteksi rate-limit.\n- 🎨 Perbaikan Sidebar: Layout sidebar lebih rapi dengan foto profil bulat dan tombol status baru."
+    "version": "2.0.4",
+    "download_url": "https://github.com/mhmdaryaqadi/GameZone-Release/releases/download/v2.0.4/GameZoneSetup_v2.0.4.exe",
+    "changelog": "✨ [v2.0.4] (Terbaru):\n- 🚀 Steam Graceful Restart Fix: Penyempurnaan penutupan bersih steamwebhelper.exe untuk mencegah bug status 'Purchase' saat inject.\n- 🔗 Dynamic Steam Registry Path: Deteksi lokasi instalasi Steam secara dinamis dari Windows Registry.\n- 🎨 Neo-Brutalism UI: Navigasi cepat 0ms dengan optimasi memori."
 }
