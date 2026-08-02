@@ -1,5 +1,5 @@
 {
-    "version": "2.0.4",
-    "download_url": "https://github.com/mhmdaryaqadi/GameZone-Release/releases/download/v2.0.4/GameZoneSetup_v2.0.4.exe",
-    "changelog": "✨ [v2.0.4] (Terbaru):\n- 🚀 Steam Graceful Restart Fix: Penyempurnaan penutupan bersih steamwebhelper.exe untuk mencegah bug status 'Purchase' saat inject.\n- 🔗 Dynamic Steam Registry Path: Deteksi lokasi instalasi Steam secara dinamis dari Windows Registry.\n- 🎨 Neo-Brutalism UI: Navigasi cepat 0ms dengan optimasi memori."
+    "version": "2.0.5",
+    "download_url": "https://github.com/mhmdaryaqadi/GameZone-Release/releases/download/v2.0.5/GameZoneSetup_v2.0.5.exe",
+    "changelog": "✨ [v2.0.5] (Terbaru):\n- ☁️ Save Cloud Redirect & Backup Engine: Cadangkan & pulihkan save game lokal agar progres tetap aman.\n- 🔒 Manifest Lock & Anti Auto-Update: Kunci file .acf (Steam Pinning) agar lisensi game injected tidak tertimpa.\n- 🧹 Pembersih Sampah Steam: Pindai & hapus file .lua / .manifest yatim bekas game yang di-uninstall.\n- 🚀 Graceful Steam Restart: Restart Steam secara bersih (-shutdown 15s poll) tanpa bug 'Purchase'.\n- 💀 Floating Overlay Search Dropdown: Pencarian game interaktif dengan skeleton loader animasi."
 }
